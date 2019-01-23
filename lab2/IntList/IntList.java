@@ -79,13 +79,30 @@ public class IntList {
      * Returns a list consisting of the elements of A followed by the
      * *  elements of B.  May modify items of A. Don't use 'new'.
      */
-
+    /**
     public static IntList dcatenate(IntList A, IntList B) {
         //TODO:  fill in method
         if (A == null){
             return B;
         }
         return new IntList(A.first, dcatenate(A.rest, B));
+    }
+    **/
+
+    /*another method without using new*/
+    public static IntList dcatenate(IntList A, IntList B) {
+        IntList pointer;
+        pointer = A;
+        if (pointer == null){
+            return B;
+        }else{
+            while (pointer.rest != null){
+                pointer = pointer.rest;
+            }
+            pointer.rest = B;
+        }
+
+        return A;
     }
 
     /**
