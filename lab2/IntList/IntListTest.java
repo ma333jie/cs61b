@@ -66,4 +66,30 @@ public class IntListTest {
         assertEquals(IntList.of(1, 2, 3), A);
     }
 
+    @Test
+    public void testGet(){
+        IntList A = IntList.of(1,2,3,4,5);
+        System.out.println(1==A.get(0));
+        System.out.println(2==A.get(1));
+        System.out.println(3==A.get(2));
+        System.out.println(4==A.get(3));
+    }
+    @Test
+    public void testSize(){
+        IntList A = IntList.of(1,2,3,4,5);
+        System.out.println(A.size() == 5);
+    }
+
+    @Test
+    public void testReverse(){
+        IntList A = IntList.of(1);
+        IntList B = IntList.of(1,2);
+        assertEquals(IntList.of(1), IntList.reverseListRecurisve(A));
+        assertEquals(IntList.of(2,1), IntList.reverseListRecurisve(B));
+
+    }
+
+
+
+
 }

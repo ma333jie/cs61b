@@ -17,6 +17,8 @@ public class IntList {
      */
     public IntList rest;
 
+    public int mySize;
+
     /**
      * A List with first FIRST0 and rest REST0.
      */
@@ -31,6 +33,26 @@ public class IntList {
     public IntList() {
     /* NOTE: public IntList () { }  would also work. */
         this(0, null);
+    }
+
+    /*use cs61bl 2015 to as guided practice questions*/
+    public int get(int i){
+        if (i ==0){
+            return first;
+        }else{
+            return rest.get(i-1);
+        }
+    }
+
+    /*use cs61bl 2015 tell the size of the linked list*/
+
+
+    /*this one returns linear time*/
+    public int size(){
+        if (rest == null){
+            return 1;
+        }
+        return 1+ this.rest.size();
     }
 
     /**
@@ -71,6 +93,21 @@ public class IntList {
         }
         return new IntList(L.first * L.first, squareListRecursive(L.rest));
     }
+
+    /** reverse a list Non destructive**/
+
+    public static IntList reverseListRecurisve(IntList L){
+        if (L == null){
+            return null;
+        }
+        if (L.rest == null){
+            return L;
+        }else {
+            return new IntList(L.first,reverseListRecurisve(L.rest));
+            //create helper method. 
+        }
+    }
+
 
     /** DO NOT MODIFY ANYTHING ABOVE THIS LINE! */
 
@@ -125,6 +162,9 @@ public class IntList {
             ptrA.rest = B;
             return resA;
         }
+
+
+        /*make a rapper case to make this safer*/
 
     }
 

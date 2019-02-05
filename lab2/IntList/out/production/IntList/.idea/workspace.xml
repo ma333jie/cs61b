@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e3bb752-58b3-4ccf-a90b-ee8d54125ea9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab2/IntList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab2/IntList.class" afterDir="false" />
+    <list default="true" id="ea0fa424-21ab-471e-a4d1-4fda925df55e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntList.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/lab2/IntList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/lab2/IntList.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,16 +14,22 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/lab2$DebugExercise1.ic" NAME="DebugExercise1 Coverage Results" MODIFIED="1547705100249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar://$PROJECT_DIR$/../javalib/junit-4.12.jar!/org/junit/Assert.class">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IntListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="78" column="9" lean-forward="true" selection-start-line="78" selection-start-column="9" selection-end-line="78" selection-end-column="9" />
+            <state relative-caret-position="132">
+              <caret line="79" column="28" selection-start-line="79" selection-start-column="28" selection-end-line="79" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IntList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -29,20 +37,19 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DebugPractice/DebugExercise2.java" />
-        <option value="$PROJECT_DIR$/IntList/IntListTest.java" />
-        <option value="$PROJECT_DIR$/IntList/IntList.java" />
+        <option value="$PROJECT_DIR$/IntListTest.java" />
+        <option value="$PROJECT_DIR$/IntList.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="60" />
-    <option name="y" value="43" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="157" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
@@ -52,35 +59,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="lab2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab2" type="462c0819:PsiDirectoryNode" />
-              <item name="DebugPractice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab2" type="462c0819:PsiDirectoryNode" />
+              <item name="IntList" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntList" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548206995465" />
-    <property name="create.test.in.the.same.root" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548308681210" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -97,25 +93,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IntListTest">
+  <component name="RunManager" selected="JUnit.IntListTest.testSize">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DebugExercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DebugExercise1" />
-      <module name="lab2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DebugExercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DebugExercise2" />
-      <module name="lab2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -127,10 +107,54 @@
       </method>
     </configuration>
     <configuration name="IntListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="lab2" />
+      <module name="IntList" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="IntListTest" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntListTest.testGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IntList" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IntListTest" />
+      <option name="METHOD_NAME" value="testGet" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntListTest.testList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IntList" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IntListTest" />
+      <option name="METHOD_NAME" value="testList" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntListTest.testSize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IntList" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IntListTest" />
+      <option name="METHOD_NAME" value="testSize" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntListTest.testdSquareList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IntList" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IntListTest" />
+      <option name="METHOD_NAME" value="testdSquareList" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -162,9 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IntListTest.testSize" />
+        <item itemvalue="JUnit.IntListTest.testGet" />
         <item itemvalue="JUnit.IntListTest" />
-        <item itemvalue="Application.DebugExercise2" />
-        <item itemvalue="Application.DebugExercise1" />
+        <item itemvalue="JUnit.IntListTest.testdSquareList" />
+        <item itemvalue="JUnit.IntListTest.testList" />
       </list>
     </recent_temporary>
   </component>
@@ -173,50 +199,51 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1e3bb752-58b3-4ccf-a90b-ee8d54125ea9" name="Default Changelist" comment="" />
-      <created>1547702614475</created>
+      <changelist id="ea0fa424-21ab-471e-a4d1-4fda925df55e" name="Default Changelist" comment="" />
+      <created>1548303266816</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1547702614475</updated>
+      <updated>1548303266816</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IntListTest - 2019.01.22 at 17h 08m 46s.xml">
+    <history-entry file="IntListTest_testGet - 2019.01.23 at 20h 57m 39s.xml">
+      <configuration name="IntListTest.testGet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntListTest_testGet - 2019.01.23 at 20h 57m 47s.xml">
+      <configuration name="IntListTest.testGet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntListTest_testGet - 2019.01.23 at 20h 58m 11s.xml">
+      <configuration name="IntListTest.testGet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntListTest - 2019.01.23 at 20h 59m 00s.xml">
       <configuration name="IntListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntListTest - 2019.01.22 at 17h 19m 27s.xml">
-      <configuration name="IntListTest" configurationId="JUnit" />
+    <history-entry file="IntListTest_testGet - 2019.01.23 at 20h 59m 43s.xml">
+      <configuration name="IntListTest.testGet" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntListTest - 2019.01.22 at 17h 19m 39s.xml">
-      <configuration name="IntListTest" configurationId="JUnit" />
+    <history-entry file="IntListTest_testGet - 2019.01.23 at 21h 00m 19s.xml">
+      <configuration name="IntListTest.testGet" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntListTest - 2019.01.22 at 17h 23m 21s.xml">
-      <configuration name="IntListTest" configurationId="JUnit" />
+    <history-entry file="IntListTest_testGet - 2019.01.23 at 21h 01m 08s.xml">
+      <configuration name="IntListTest.testGet" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntListTest - 2019.01.22 at 17h 23m 25s.xml">
-      <configuration name="IntListTest" configurationId="JUnit" />
+    <history-entry file="IntListTest_testGet - 2019.01.23 at 21h 02m 19s.xml">
+      <configuration name="IntListTest.testGet" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntListTest - 2019.01.22 at 17h 24m 52s.xml">
-      <configuration name="IntListTest" configurationId="JUnit" />
+    <history-entry file="IntListTest_testGet - 2019.01.23 at 21h 02m 23s.xml">
+      <configuration name="IntListTest.testGet" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntListTest - 2019.01.22 at 17h 27m 11s.xml">
-      <configuration name="IntListTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IntListTest - 2019.01.22 at 17h 28m 04s.xml">
-      <configuration name="IntListTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IntListTest - 2019.01.22 at 17h 28m 10s.xml">
-      <configuration name="IntListTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IntListTest - 2019.01.22 at 17h 28m 23s.xml">
-      <configuration name="IntListTest" configurationId="JUnit" />
+    <history-entry file="IntListTest_testGet - 2019.01.23 at 21h 03m 21s.xml">
+      <configuration name="IntListTest.testGet" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="357" y="23" width="1440" height="797" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15379113" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -225,16 +252,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38072288" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5710843" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Style Checker" order="8" weight="0.32882884" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32882884" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32907802" />
+      <window_info anchor="bottom" id="Style Checker" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32907802" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -243,102 +270,88 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32948583" />
     </layout>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/DebugPractice/DebugExercise2.java</url>
-          <line>68</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/IntList/IntListTest.java</url>
-          <line>56</line>
-          <properties />
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DebugPractice/DebugExercise1.java">
+    <entry file="file://$PROJECT_DIR$/IntList.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../javalib/junit-4.12.jar!/org/junit/Assert.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="116">
+          <caret line="237" selection-start-line="237" selection-end-line="237" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DebugPractice/DebugExercise2.java">
+    <entry file="jar://$PROJECT_DIR$/../../javalib/junit-4.12.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="66" column="33" lean-forward="true" selection-start-line="66" selection-start-column="33" selection-end-line="66" selection-end-column="33" />
+        <state relative-caret-position="222">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../javalib/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+    <entry file="jar://$PROJECT_DIR$/../../javalib/junit-4.12.jar!/org/junit/runner/notification/RunNotifier.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
+        <state relative-caret-position="226">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+          <folding>
+            <element signature="e#0#5324#0" expanded="true" />
+            <element signature="e#3647#3830#0" expanded="true" />
+            <element signature="e#3829#3830#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../javalib/junit-4.12.jar!/org/junit/internal/runners/model/EachTestNotifier.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../javalib/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
           <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../javalib/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+    <entry file="jar://$PROJECT_DIR$/../../javalib/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="205" selection-start-line="205" selection-end-line="205" />
+        <state relative-caret-position="72">
+          <caret line="172" selection-start-line="172" selection-end-line="172" />
+          <folding>
+            <element signature="e#6484#6648#0" expanded="true" />
+            <element signature="e#6647#6648#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../javalib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+    <entry file="jar://$PROJECT_DIR$/../../javalib/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
+        <state relative-caret-position="138">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../javalib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../javalib/junit-4.12.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
+    <entry file="file://$PROJECT_DIR$/IntListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="132">
+          <caret line="79" column="28" selection-start-line="79" selection-start-column="28" selection-end-line="79" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../javalib/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+    <entry file="file://$PROJECT_DIR$/IntList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#870#1063#0" expanded="true" />
-            <element signature="e#1062#1063#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntList/IntListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="60" column="9" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntList/IntList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="182" selection-start-line="182" selection-end-line="182" />
-          <folding>
-            <element signature="method#squareListRecursive#0;class#IntList#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../javalib/junit-4.12.jar!/org/junit/Assert.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="78" column="9" lean-forward="true" selection-start-line="78" selection-start-column="9" selection-end-line="78" selection-end-column="9" />
+        <state relative-caret-position="227">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -394,7 +407,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>lab2</last-edited>
+          <last-edited>IntList</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -420,17 +433,6 @@
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <last-edited>javalib</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
